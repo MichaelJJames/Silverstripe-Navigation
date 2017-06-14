@@ -1,0 +1,17 @@
+{
+	"name": "MichaelJJames/Silverstripe-Navigation",
+	"description": "Module for silverstripe to allow your to add a sortable navigation menu",
+	"keywords": ["silverstripe", "CMS", "Module"],
+	"license": "MIT License",
+	"minimum-stability": "dev",
+	"authors": [
+        {
+            "name": "Michael J James",
+            "homepage": "http://www.michaeljjames.com/"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": ">=3.1",
+		"undefinedoffset/sortablegridfield": "dev-master"
+    },
+}
